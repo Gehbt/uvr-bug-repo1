@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "Preserve",
+        "moduleResolution": "Bundler",
+        "target": "ESNext",
+        "strict": true,
+        "lib": ["ESNext"],
+        "types": ["node"]
+    },
+    "include": ["./vite.config.js","src"]
+}
